@@ -1,0 +1,66 @@
+1. So far we've **encountered** two ways of writing values: expression statements and the print() function.
+
+    If you run into that cute guy (or girl) from the local deli when you're at the grocery store and you stop to chat,
+    you've just had an *encounter*, which is a casual meeting, often resulting by chance.
+
+    When you *encounter* the word *encounter*, context will tell you it's acting as a verb or noun. The sentence "When
+    Spencer and Susanna *encounter* a bear on the trail, they stand very still" illustrates the verb form. "The
+    *encounter* in the subway left her wishing she had stayed at home" shows the noun form. Whether acting as a verb or
+    noun, the word carries the connotation of "chance meeting." You don't plan a *encounter*, it just happens.
+
+#. The string module contains a Template class that offers yet another way to substitute values into strings, using
+   **placeholders** like $x and replacing them with values from a dictionary, but offers much less control of the
+   formatting.
+
+    a symbol in a logical or mathematical expression that can be replaced by the name of any member of specified set
+    占位符
+
+#. The str.rjust() method of string objects right-**justifies** a string in a field of a given width by padding it with
+   spaces on the left.
+
+    To *justify* is to make excuses for one's actions, like the dieter who has to *justify* the few tiny pieces of
+    chocolate she's sneaked in between salads.
+
+    Anyone who has ever made excuses for his or her actions knows the meaning of *justify*.
+
+    To *justify* a line of text is to space it so that it lines up with the margin.
+
+#. ``f.tell()`` returns an integer giving the file object's current position in the file represented as number of bytes
+   from the beginning of the file when in binary mode and an **opaque** number when in text mode.
+
+    Use the adjective *opaque* either for something that doesn't allow light to pass through (like a heavy curtain) or
+    for something difficult to understand (like bureaucratic gobbledygook).
+
+    *Opaque* is defined, in English, as "not able to be seen through; not transparent". In Computer science, this means
+    a value which reveals no details other than the type of the value itself.
+
+    In computer science, an *opaque* data type is a data type whose concrete data structure is not defined in an
+    interface.  ------From Wikipedia
+
+#. File objects have some additional methods, such as ``isatty()`` and ``truncate()``, which are less frequently used.
+
+    The verb *truncate* means to cut off or shorten. You can *truncate* a board that is too long using a power saw, a
+    chain saw, or perhaps even a karate kick.
+
+#. Rather than having users to constantly writing and debugging code to save complicated data types to files, Python
+   allows you to use the popular data **interchange** format called JSON (JavaScript Object Notation).
+
+    To *interchange* two things is to trade or switch them. If the painting hanging on your wall just doesn't fit the
+    room, you can *interchange* it with the photograph on the opposite wall.
+
+    When *interchange* is a noun, it has various meanings including "highway intersection," or the place hwere these
+    busy roads meet each other.
+
+#. Many programmers are already familiar with it, which makes it a good choice for **interoperability**.
+
+    It's usually used in computer science, describing the ability to exchange and use information (usually in a large
+    heterogeneous network made up of several local area network).
+
+#. The standard module called json can take Python data **hierarchies**, and convert them to string representations;
+   this process is called serializing.
+
+    *Hierarchy* describes a system that organizes or ranks things, often according to power or importance. At school the
+    principal is at the top of the staff hierarchy, while the seniors rule the student *hierarchy*.
+
+    Also known as a pecking order or power structure, a *hierarchy* is a formalized or simply implied understanding of
+    who's on top or what's most important.

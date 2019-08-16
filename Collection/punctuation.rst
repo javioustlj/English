@@ -1,0 +1,16 @@
+- comma
+- semicolon
+- colon
+- dash
+- hyphen
+- brackets
+- braces
+- parentheses
+- apostrophe
+- quotation marks
+- ellipsis
+
+- curly brace ( open curly brace for {, and closed curly for })
+- backslash
+- forwarded slash
+- angle brackets

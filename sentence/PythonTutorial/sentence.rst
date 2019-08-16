@@ -1,0 +1,223 @@
+1. **Whetting** your appetite
+
+    To *whet* is to sharpen. You could *whet* a knife's blade with a whetting stone, or you could *whet* your appetite by
+    having some Doritos.
+
+#. Python enables programs to be written **compactly** and readably.
+
+    Primary Meanings of *compact* is closely and firmly united or packed together.
+
+    A *compact* is a signed written agreement that binds you to do what you've promised. It also refers to something
+    small or closely grouped together like the row of *compact* rental cars you see when you wanted a van.
+
+#. This is rather **mundane** information, but essential for trying out the examples shown later.
+
+    An ordinary, unexciting thing can be called *mundane*:"Superman hid his heroic feats by posing as his *mundane*
+    alter ego, Clark Kent."
+
+#. Since the choice of the directory where the interpreter lives is an installation option, other places are possible;
+   check with your local Python **guru** or system administrator.
+
+    A *guru* is a spiritual teacher and leader, particularly in the Hindu and Buddhist traditions. It has been said that
+    your *guru* will find you when you are ready for your study -- journey -- to begin.
+
+    There is also another kind of *guru* -- an expert leader in any field. You can be a *guru* of accounting or even of
+    pizza-making if you are very good at it and can guide others to greater understanding.
+
+#. The interpreter's line-editing features include interactive editing, history **substitution** and code completion on
+   systems that supports readline.
+
+    The noun *substitution* refers to the act of replacing one thing with another. Your football coach might make a
+    substitution by sending you onto the filed to take over for a player who is tiered or injured.
+
+#. A second way of starting the interpreter is ``python -c command [arg] ...``, which executes the statement(s) in
+   command, **analogous** to the shell's -c option.
+
+    Use the adjective *analogous* to describe something that is similar to something else and can be compared to
+    another.
+
+#. When known to the interpreter, the script name and additional arguments **thereafter** are turned into a list of
+   strings and assigned to the ``argv`` variable in the ``sys`` module.
+
+    "*thereafter*" means from that time on.
+
+#. To do ``floor division`` and get an integer result (discarding any **fractional** result) you can use the ``//``
+   operator.
+
+    Fractional result means 小数部分
+
+#. Strings can be **concatenated** with the + operator, and repeated with \*.
+
+    Did you just link together several memories of your brother to form one longer story for his wedding toast? If so,
+    you *concatenated* without knowing it! That's because *concatenate* means to link things together to form a series or
+    chain.
+
+#. Python strings cannot be changed --- they are **immutable**.
+
+    If you can't change it, it's *immutable*. There are many things in life that are immutable; these unchangeable
+    things include death, taxes, and the laws of physics.
+
+#. The most **versatile** is the list, which can be written as a list of comma-separated values (items) between square
+   brackets.
+
+    To describe a person or thing that can adapt to do many things or serve many functions, consider the adjective
+    *versatile*.
+
+#. Besides the ``while`` statement just introduced, Python knows the usual control flow statements know from other
+   languages, with some **twists**.
+
+    When you *twist* something, you turn it in a different direction. You might *twist* off a bottle cap, or you might
+    even twist the plot of a story you are writing.
+
+#. The keyword 'elif' is short of 'else if', and is useful to avoid **excessive** indentation.
+
+    *Excessive* means beyond what is typical or normal. When something is *excessive*, there's way too much.
+
+#. An ``if ... elif ... elif ...`` sequence is a **substitute** for the ``switch`` or ``case`` statements found in other
+languages.
+
+    Something or someone that takes the pace of another is said to be a *substitute*. You may be sent into a game as a
+    substitute for an injured player, or you might *substitute* chocolate chips for blueberries in a pancake recipe.
+
+#. Rather than always giving the user the ability to define both iteration step and **halting** condition (as C),
+   Python's for statement iterates over the items of any sequence (a list or string).
+
+    Whether it's used as a noun or a verb, the word *halt* means stop. You can remember this by remembering that when
+    you step on the brake to *halt* your car (verb), it comes to a *halt* (noun).
+
+#. For example (no **pun** intended):
+
+    A *pun* is a play on words. If a bird flying overhead takes a poop on the cake you're carrying, you could say "Isn't
+    that just the icing on the cake!" But only if you  want to be punny.
+
+    When someone says *no pun intended*, however, it is when they something that could be taken to have two meanings; an
+    obvious one, and a slightly "off" interpretation; and they want you to know they are not making an intentional play
+    on words and want you to take what they said to be the obvious meaning.
+
+#. The object returned by ``range()`` returns the **successive** items of the desired sequence when you iterate over it,
+   but it doesn't really make the list, thus saving space.
+
+    *Successive* is a word for things (or people) that follow each other in time. If three presidents in a row were over
+    sixty, you could say, "Three successive presidents were over sixty."
+
+#. Loop statements may have a else **clause**.
+
+    A clause is a group of words with a subject and verb. That kind of *clause* is handy when taking about grammar.
+    Another kind of *clause* is a provision or stipulation in a legal contract.
+
+#. This is **exemplified** by the following loop, which searches for prime numbers.
+
+    If you *exemplify* something, you're the prefect example of it. Say you wear frilly shirts, knee-high boots, and
+    black eye-make-up --- you *exemplify* the fashion world's obsession with pirates.
+
+#. Coming from other language, you might **object** that ``fib`` is not a function but a procedure since it doesn't
+   return a value.
+
+    When your younger brother runs around the house with scissors, you should definitely *object*. Perhaps a less sharp
+    *object* such as a roll of paper towels would suffice.
+
+#. In fact, even functions without a return statement do return a value, **albeit** a rather boring one.
+
+    You use *albeit* to introduce a fact a comment which reduces the force or significance of what you have just said.
+
+    = although
+
+#. Writing the value None is normally **suppressed** by the interpreter if it would be the only value written.
+
+    To *suppress* something means to curb, inhibit, or even stop it. If the sound of your boss moving in his chair sounds
+    like gas, you're going to have to learn how to *suppress* your giggles.
+
+    If something is *suppressed*, it has been kept secret or forcibly restricted. You may hear rumors about a
+    *suppressed* report on a politician's activities -- it's kept secret, so you don't know the facts.
+
+#. This makes a difference when the default is a **mutable** object such as a list, dictionary, or instance of most classes.
+
+    Something or someone that is *mutable* is subject to change. *Mutable* weather can go from sunny, to rainy and
+    windy, and back to sunny again.
+
+#. Finally, the least frequently used option is to specify that a function can be called with an **arbitrary** number of
+   arguments.
+
+    Something that's *arbitrary* seems like it's chosen at random instead of following a consistent rule. Team members
+    would dislike their coach using a totally *arbitrayry* method to pick starting players.
+
+#. Small **anonymous** functions can be created with lambda keyword.
+
+    If you don't know who wrote a poem, the author is *anonymous*. If you don't know who donated a gift to a museum,
+    it's called an *anonymous* gift from an *anonymous* donor. *Anonymous* means a person unknown.
+
+#. Here are some **conventions** about the content and formatting of documentation strings.
+
+    A *convention* is a meeting, usually of a particular group. Political parties, teachers, plumbers, gardeners,
+    toymakers and computer designers all hold *conventions*.
+
+    A convention can also be used to describe the normal or accepted way of doting things. It's the convention, for
+    example, for your employer to five you a three-day weekend around the Fourth of July, even if it falls on a weekend.
+
+#. The first line should always be a short, **concise** summary of the object's purpose.
+
+    If something is *concise*, it's short and gets right to the point. A *concise* edition of your diary might be 50
+    pages of the most important entries.
+
+#. The Python parser does not **strip** indentation from multi-line string literals in Python.
+
+    The verb *strip* has many shades of meaning, but most of them involve removing something. Someone may *strip* you of
+    your power or you may *strip* off your clothes. Whatever it is that you *strip*, it's gone.
+
+#. Function **annotations** are completely optional metadata information about the types used by user-defined functions.
+
+    *Annotations* are simply notes or comments. If you have trouble understanding Shakespeare, you may want to buy a
+    cope of "Hamlet" with *annotations* on each page that explain all the vocabulary words and major themes.
+
+#. Making it easy for others to read your code is always a good idea, and adopting a nice coding style helps
+   **tremendously** for that.
+
+    tremendously = extremely
+
+    *Tremendous* means extraordinarily large in size, extent, amount, power, or degree. It can also mean really
+    marvelous and fantastic -- or really awful and terrible.
+
+#. For Python, PEP 8 has **emerged** as the style guide.
+
+    To emerge means to come out into view or come forth. You might hope to emerge from an epic perming session looking
+    like a beauty queen, but chances are it will just look like you got electrocuted.
+
+#. Most projects **adhere** to PEP 8 as the style guide.
+
+    If you don't want monkey droppings to adhere to the sole of your shoe, watch where you're walking. Maybe if you'd
+    adhere, or stick to, the zoo rules and stay on the walking path, you wouldn't have to worry about it.
+
+#. Referencing the name ``a`` **hereafter** is an error (at least until another value is assigned to it).
+
+    ``del a`` is before this statement.
+
+    You can use the adverb *hereafter* to talk about what happens next, after this moment. For example, you might say,
+    "I will *hereafter* get my homework done in time."
+
+#. Tuples are immutable, and usually contain a **heterogeneous** sequence of elements that are accessed via unpacking or
+   indexing (or even by attribute in the case of namedtuples).
+
+    *Heterogeneous* can be used to describe the diversity of nearly anything -- populations, classrooms, collections. A
+    *heteroneneous* array of immigrants passed through Ellis Island to help create the American "melting pot."
+
+    An easy way to remember the meaning of this word is that homo is the same and hetero is different. So a homogeneous
+    group of puppies might consist of apricot-colored poodles, while a heterogeneous group might consist of a hodgepodge
+    of different pups ranging from dachshunds to dalmatians. Anytime you are confronted with a group whose members are
+    not all similar to one another, you have an opportunity to trot out *heterogeneous*.
+
+#. Lists are mutable, and their elements usually **homogeneous** and are accessed by iterating over the list.
+
+    If a group of things are *homogeneous*, they're all the same or similar, like a room full of identically dressed
+    Elvis impersonators.
+
+    The adjective *homogeneous* comes from the Greek homogenes, meaning "of the same kind." You can break down the root of the word further into two parts: homos, meaning "same," and geneous, meaning "kind,
+    gender, race, stock."
+
+#. A special problem is the construction of tuples containing 0 or 1 items: the syntax has some extra quirks to
+   **accommodate** these.
+
+    If you *accommodate*, you are making an adjustment to suit a particular purpose. If you *accommodate* your brother's
+    demand for the attic room, then you give in and let him take over that space.
+
+    A quirk is a unique, odd, and sometimes charming trait that makes a person stand out from the crowd. Country
+    comedian Minnie Pearl was know for her *quirk* of wearing a $1.98 price tag dangling from her hat.
