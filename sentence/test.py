@@ -24,7 +24,7 @@ class MyVisitor(docutils.nodes.GenericNodeVisitor):
             if child == notes.children[0]:
                 item = item + '\t'
             else:
-                item = item + '<br>'
+                item = item + '<br>' + '<br>'
             item = item + child.rawsource.replace('*', '').replace('\n', ' ')
         if (title):
             item = item + '\t' + title
