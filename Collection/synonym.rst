@@ -1,0 +1,4 @@
+- pay close/full attention to
+- run out of : use up
+- battle : war : struggle : contention : competition 
+- alter : change : convert : vary : modify : transform : turn

@@ -1,0 +1,138 @@
+Packet Addressing
+=====================
+
+1. The lowest level of addressing is **dictated** by network hardware.
+
+     When you dictate something, you are giving orders -- acting a bit like a dictator.
+
+     Dictate can be used in a broader sense. Weather often dictates how many layers of clothes you wear, and the school
+     rules dictate how you behave in and out of class. In a very different meaning, dictate means to say something out
+     loud to a person or into a machine so it can be recorded. Up until fairly recently, bosses dictated letters and
+     reports to secretaries who wrote them down.
+
+#. Sysadmins can sometimes identify the brand of machine that is **trashing** a network by looking up the 3-bytes
+   identifier in a table of vendor IDs.
+
+     Trash is rubbish or garbage -- it's the stuff that gets thrown away. Your town might organize a clean-up day each
+     year when people pick up trash in parks and neighborhoods.
+
+     Trash is dirty, worthless, leftover debris. Fittingly, the word is also a terribly derogatory term for useless,
+     low-status people:"I should've known you were nothing but trash." And to trash talk is to brutally criticize or
+     gossip about someone. You can even use trash as a verb, to mean "throw away," as in, "I'm going to trash this trash
+     in that trash can over there."
+
+#. **Spoofable** MAC addresses are also helpful if you need to infiltrate a wireless network that uses MAC-based access
+   control.
+
+     A spoof is a funny version of something, like a movie or a book. The classic comedy "Young Frankenstein" is a spoof
+     of earlier, serious film adaptations of the famous novel.
+
+     You can also call a spoof a parody. A spoof borrows material from the original, copying the style and
+     characteristics that make it obvious what the subject of the spoof is. Movies like "Spaceballs," a spoof of the
+     "Star Wars" films, and "Scary Movie," which spoofs the entire horror film genre, are great examples.
+
+#. Spoofable MAC addresses are also helpful if you need to **infiltrate** a wireless network that uses MAC-based access
+   control.
+
+     If you infiltrate a group or organization, you join it in order to gain information, like an employee of a donut
+     shop that infiltrates the competition to try to learn its "secret recipe" for its delicious dough.
+
+     Infiltrate is a verb that is familiar to international spies and undercover agents, who are all adept at joining a
+     group under false pretenses, fitting in, and working their way up to the highest ranks in order to find out as much
+     information as they can about the group. The word can be used more broadly to describe anything that stealthily
+     becomes a part of something else, such as slang words that infiltrate our everyday speech.
+
+#. TCP and UDP extend IP address with a concept known as a port, a 16-bit number that **supplements** an IP address to
+   specify a particular communication channel.
+
+     A supplement is something added to something else. Nutritional supplements add vitamins and minerals to the ones
+     already included in the food you eat.
+
+     If a zombie army wants to increase its ranks but is running out of bodies, it might supplement its troops with
+     mummies. If the zombies put out their manifesto and then realize they left out an important point, they might
+     supplement the manifesto with a press release. That press release could also be referred to as a supplement.
+
+#. The services file is part of the **infrastructure**.
+
+     The infrastructure is the basic foundation or underlying framework of an organization or system. In your house, the
+     infrastructure is the system of beams, weight bearing walls and the foundation that keeps it standing.
+
+     Infrastructure often refers to the equipment and structures required by the military or by a country or region.
+     Roads, bridges, and school buildings are part of our nation's infrastructure, and are necessary for the continued
+     growth of our communities. This word was formed as a compound in English, using the prefix infra- "below,
+     underneath."
+
+#. To help prevent **impersonation** of system services, UNIX systems restrict programs from binding to port numbers
+   under 1024 unless they are run as root or have an appropriate Linux capability.
+
+     Impersonation is when someone pretends to be another person. If you pretend to be your twin brother all day at
+     school, that's impersonation.
+
+     There are a few different forms of impersonation -- some of them are harmless, like comedians who use impersonation
+     to mimic the voices and mannerisms of famous people, or actors who play historical figures in movies. Other kinds
+     of impersonation are harmful, including when a thief takes someone's indentity (including Social Security number
+     and bank information) in order to steal their money.
+
+#. Today, the privileged port system is much as a **nuisance** as it is a bulwark against malfeasance.
+
+     Whether it's a mosquito or your little brother pestering you about the laundry, you can use the word nuisance to
+     describe something that causes small annoyances.
+
+     The noun nuisance traces back to the Latin word nocere, meaning "to harm." Nuisance originally was used to refer to
+     things that could produce serious injury and harm, but over time the word lost some of its capacity for
+     destruction. Nowadays you'll hear nuisance used to describe things or people that cause small problems or that
+     bother you in annoying but trivial ways.
+
+#. Today, the privileged port system is much as a nuisance as it is a **bulwark** against malfeasance.
+
+     A bulwark is wall built for protection or defense. If you and your pals build a secret fort for girls only, you
+     might want to build a bulwark to surround it -- with a "No Boys Allowed" sign posted prominently.
+
+     A seawall that runs perpendicular to the shore is sometimes called a bulwark, because it defends the beach, not
+     against invaders, but against beach erosion. Although the noun bulwark can refer to any fortified wall, it often
+     specifically refers to an earthen wall, like a rampart. As a verb, bulwark means to fortify with a wall or to
+     provide protection: "The volunteers used sandbags to bulwark the levee in an attempt to prevent the flooded river
+     from overflowing its banks."
+
+#. Today, the privileged port system is as much a nuisance as it is a bulwark against **malfeasance**.
+
+     Whenever you see the prefix "mal-," you know it's not good. Malfeasance is bad behavior, especially from officials
+     or people who should know better.
+
+     If nothing else, the mal- in malfeasance will alert you to the fact that something bad is going on. If you know
+     French, fease-, faise- will ring a bell, as it often means "to do." You can probably then infer that malfeasance
+     means "to do bad." Today, it's usually a bad deed done by an official or an organization. You wouldn't accuse a dog
+     who peed on the carpet of malfeasance, but you would accuse a mayor who took a bribe of malfeasance.
+
+#. This practice limits the **proliferation** of unnecessary root privileges and adds an additional layer of abstraction
+   to your infrastructure.
+
+     Proliferation is a rapid multiplication of parts or the increase in the number of something. Nuclear proliferation
+     is a rapid increase of nuclear weapons.
+
+     The proliferation of any living thing will often create an overpopulation problem and cause an environmental
+     imbalance. A proliferation of fuzzy koala bears might seem kind of nice, but these cute little creatures would soon
+     eat up all the eucalyptus, running out of food and causing problems for other species. We almost always use this
+     word to describe stuff we don't want to increase rapidly. The excessive proliferation of mutated cells, for
+     instance, is how cancer grows.
+
+#. The IP layer defines several broad types of address, some of which have direct **counterparts** at the link layer.
+
+     If you leap tall buildings in a single bound for the Des Moines branch of your corporation, then your Metropolis
+     counterpart might be Superman. That means you and Superman do similar jobs, but in different locations.
+
+     The noun counterpart comes from the French word countre part, meaning "duplicate of a legal document." In legal
+     circles counterpart still means "a duplicate document," but today it is more likely to describe people.
+     Counterparts aren't duplicates, of course, but they have similar skills and responsibilities. If you play soccer,
+     your counterpart is the player on the other team who plays the same position.
+
+#. The **novelty** of anycast addressing is really just the relaxation of the traditional requirement that IP addresses
+   identify unique destinations.
+
+     Novelty is a newness or refreshing quality. Many college freshmen enjoy the novelty of living on their own — until
+     it comes time to do that first load of laundry.
+
+     You'll often hear people talk about the novelty of a new experience — imagine the excitement and anticipation of
+     cracking open a novel you’ve never read before to help remember the word. But novelty is also a term for a small
+     toy or trinket, usually mass-produced. Novelty shops sell all kinds of funny knickknacks, from personalized
+     flashlight key chains to stuffed singing hamsters.

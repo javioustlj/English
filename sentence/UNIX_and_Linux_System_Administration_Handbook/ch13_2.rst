@@ -1,0 +1,295 @@
+Networking basics
+-------------------
+
+#. IPv6 also **integrates** security and authentication into the basic protocol.
+
+     To integrate is to make parts of something into a whole. It also means to become one unit, or to make a place (like
+     a school) open to people of all races and ethnic groups.
+
+#. As of March 2017, the fraction of **peers** using IPv6 to contact Google sites has risen to about 14% world-wide.
+
+     A peer is someone at your own level. If you are a 10th grader, other high school students are your peers.
+
+     Peer comes from the Latin par which means equal. When you are on par with someone, you are their peer. If kids your
+     age are pressuring you to do something you don't want to do, that's peer pressure. In the sport of basketball,
+     Michael Jordan was without peer, no one could equal his talent. When he switched to baseball, he found himself to
+     be among peers again.
+
+#. Those numbers look healthy, but in fact they're perhaps a bit **deceptive**.
+
+     Something that's deceptive is not what it seems. A deceptive person will lead you to believe something other than
+     the truth. Of course, I would never be deceptive when explaining the word deceptive.
+
+     If someone tells you that "appearances can be deceptive," they mean you should look closely at your surrounding
+     because the truth might not be obvious. You might see a connection between the verb to deceive and the adjective
+     deceptive, so you are on to something. If you deceive someone, you are being deceptive. Is it ok to be deceptive
+     when you are planning a surprise party?
+
+#. Home and enterprise networks remain **overwhelmingly** centered on IPv4.
+
+     In a way that is very great or very strong; In a way that is so powerful that you cannot resist it or decide how to
+     react
+
+#. Given that we've already lived through the IPv4 **apocalypse** and have used up all our IPv4 addresses, how is it
+   that the world continues to rely predominantly on IPv4?
+
+     Apocalypse is a word that means "the end of the world" -- or something so destructive it seems like the world has
+     ended in a place, like a major earthquake.
+
+     The apocalypse is the total destruction of the world, as prophesied in the biblical book of Revelation. Apocalypse
+     can be used to describe utter destruction caused by war or natural disaster. The nuclear bomb attack on Hiroshima
+     during World War II can be called an apocalypse because the devastation was so severe and so many lives were lost.
+
+#. Given that we've already lived through the IPv4 apocalypse and have used up all our IPv4 addresses, how is it
+   that the world continues to rely **predominantly** on IPv4?
+
+     When the weather forecast says the day will be predominantly sunny, that means it will be mostly sunny.
+
+     Use predominantly to describe the general, ruling quality of something, the same way you'd use the phrase "for the
+     most part." An actor who is predominantly in films, appears mostly in movies, but might sometimes do live theater
+     or TV. A neighborhood that is predominantly Indian has mostly Indian people living there, but maybe other groups
+     too, in smaller numbers.
+
+#. We could go on, but you get the **drift**.
+
+     If you are get my drift, you get the basic meaning of what I'm saying. Or, if you move around without a seeming
+     fixed destination, you are said to drift -- whether you're a snowflake or just a wanderer.
+
+     Interestingly, the verb to drift can be used either approvingly or disapprovingly. We rather admire the freedom of
+     certain objects that drift, such as snow drifts or drift wood, but applied to people we're a bit more critical: we
+     tend to harbor suspicious of the carefree Gypsy or nomad, hence the moral criticism (and danger) inherent in the
+     term drifters.
+
+#. **Contention** for IPv4 addresses still exists, but like broadcast spectrum, it tends to be reallocated in economic
+   rather than technological ways these days.
+
+     There is nothing "content," or satisfying about being in contention, and that's probably because the word
+     contention means being in a competition that ends with one side, usually the winning one, being content.
+
+     "And in this corner, the contender" is heard at most boxing matches to describe each of the fighters about to go
+     into contention it the ring. Sometimes, though, a contention can be a battle of words or a struggle between two
+     parties over a single point. The expression "bone of contention" describes a narrow object of disagreement that
+     reaches the level of strife, or contention. For two hungry dogs, though, the bone of contention might be a serious
+     matter.
+
+#. Contention for IPv4 addresses still exists, but like broadcast **spectrum**, it tends to be reallocated in economic
+   rather than technological ways these days.
+
+     A spectrum is a broad range of similar things or qualities, like the wide spectrum of political beliefs in this
+     country, ranging anywhere from super conservative to uber-liberal and everything in between.
+
+     Our modern definition of spectrum started out in the 1600s, when scientists used it to refer to the band of colors
+     formed by a beam of light, like a rainbow. In physics, it's a word that describes the distribution of something,
+     like energy or atomic particles. We still use those scientific meanings today, but spectrum can also apply to
+     non-science related groupings or ranges of related things.
+
+#. Contention for IPv4 addresses still exists, but like broadcast spectrum, it tends to be **reallocated** in economic
+   rather than technological ways these days.
+
+     To distribute something again is to reallocate. If one kindergarten classroom has too many crayons and another
+     kindergarten class doesn't have enough, the school may want to reallocate the art supplies.
+
+     If some resource needs to be handed out again in a different way, you'll have to reallocate it. Noticing that some
+     of your party guests have two goody bags but several didn't even get one will inspire you to reallocate the party
+     favors in a more fair way. Governments often find themselves in the position of having to reallocate money,
+     resources, or services.
+
+#. And yes, it is in some ways easier to **administer** than IPv4 and requires fewer hacks (e.g., less need for NAT).
+
+     When you administer something, you give it to others. This can apply to a does of medicine, an order, a survey, or
+     a punishment. Administer can also mean to run something -- such as a school or an office.
+
+     The word administer belongs to a family of words, all having to do with being in charge: administration,
+     administrator, and administrative. Strangely, administer comes from the Latin word minister meaning "servant." So,
+     if you boss or principal administers an instruction that you disagree with, just think of that person as your
+     servant. Doing so will help you carry out your duties with a smile.
+
+#. The fact that you mush manage it alongside IPv4 **eliminates** any potential efficiency gain.
+
+     As eliminate means "get rid of or do away with," it has become used to refer to the end of a problem or even an
+     entire species. We need to eliminate sources of pollution in order to maintain a healthy world.
+
+#. We've been publishing this book for a long time, and over the last few editions, IPv6 has always seed like it was one
+   more update away from **meriting** coverage as a primary technology.
+
+     Merit means "worthiness or excellence." If you receive a certificate of merit in school, you are being recognized
+     for doing a good job. As a verb, merit means "deserve." Your certificate might merit a prominent place on your
+     bulletin board.
+
+     You will often hear the phrases merit-based promotion and merit-based pay, which come up when employees are pushing
+     against a system in which time on the job -- and not job performance -- determines when works are promoted and how
+     much they are paid. Using the word merit suggests impartiality and objectivity -- such as when you swear off a
+     prejudiced approach to something and vow to "judge it on its merits."
+
+#. 2017 Brings an **uncanny** sense of deja vu, with IPv6 looming ever brighter on the horizon but still solving no
+   immediate problems and offering few specific incentives to convert.
+
+     If something is uncanny, it is so mysterious, strange, or unfamiliar that it seems supernatural. If you hear
+     strange music echoing through your attic, you might refer to it as positively uncanny.
+
+     You can also use uncanny to refer to something that is so remarkable that it is beyond what is natural, as in "She
+     has an uncanny ability to find her way around new places."
+
+#. 2017 Brings an uncanny sense of deja vu, with IPv6 **looming** ever brighter on the horizon but still solving no
+   immediate problems and offering few specific incentives to convert.
+
+     Loom has two distinct meanings. First, a loom is a tool for weaving. Second, to loom is to appear or stand over
+     someone in a threatening way. Don't loom over the person you're teaching to weave! You'll just make her nervous.
+
+     The word loom, as an instrument to turn yarn into fabric, comes from Old English word for "tool." The verb form,
+     meaning "to lurk just out of view," comes from Low German or Dutch. Anything that looms is coming into view slowly
+     and isn't something you want to see. Although storm clouds and icebergs can loom, this word does not have to refer
+     to a physical object. If a deadline looms, better get to work.
+
+     looming on the horizon
+
+#. 2017 brings an uncanny sense of deja ve, with IPv6 looming ever brighter on the horizon but still solving no
+   immediate problems and offering few specific **incentives** to convert.
+
+     If your mom wants you to mow the lawn but you don't feel like it, she might offer to treat you to ice cream after
+     as in incentive. An incentive is something that stimulates you to take action or work harder.
+
+#. 2017 brings an uncanny sense of deja vu, with IPv6 looming ever brighter on the horizon but still solving no
+   immediate problems and offering few specific incentives to **convert**.
+
+     Think of the word convert as meaning "change," whether it is a person who adopts a new belief, or a changing
+     action, such as when you convert dollars into euros.
+
+     Many times we can catch a words meaning by looking at its origins. In this case, the Latin can means "around,"
+     while vertere means "turn." So we can fiture that convert means to "turn around," an objects or one's thoughts on
+     an idea. For example, you might convert a meat eater into a vegetarian or an empty-nester might convert the kids'
+     bedroom into an exercise room.
+
+#. IPv6 is **superior** from an engineering standpoint.
+
+     The salesman boasted to his customer that the $1 million car was well worth the price because it was far superior,
+     meaning of high quality, to any car that had come before it. This car, the salesman bragged, could fly.
+
+     Superior comes from the Latin word meaning above and literally means something that is above others in quality or
+     status. Sometimes being superior can be perceived as a negative, as in the woman who acts superior to all of her
+     friends, having a high opinion of herself just because she has millions of dollars in the bank after winning the
+     lottery.
+
+#. IPv6 is superior from an engineering **standpoint**.
+
+     Your standpoint is the position, either physical or mental, from which your perceive things. From a practical
+     standpoint, your parents might want you to study accounting -- but you're determined to follow your dream of
+     becoming a professional mime.
+
+     You can also call your standpoint your "point of view." From the standpoint of your position across the room, you
+     can just barely see your friends watching a television soccer match and cheering on their favorite teams. From your
+     standpoint as a basketball fan, you find soccer incredibly boring. It's the outlook you have on life or certain
+     subjects that gives you this second kind of standpoint. The word comes directly from the German equivalent,
+     Standpunkt.
+
+#. You need to develop IPv6 **expertise** so that you're not caught flat-footed when the IPv6 rapture finally arrives.
+
+     When you're an expert at something, you show expertise -- or an exceptional knowledge of the subject. "He had
+     expertise in accounting, having excelled in math, but he had even more expertise in dancing, his hobby since a
+     small child."
+
+     Expertise has obvious roots in the word expert. Just about any interest or field has a place for experts. Just as
+     one individual has expertise in world religions, another may have expertise in computer gaming. Working hard or
+     immersing yourself in a specialty leads to expertise, and it comes through both study and hands-on experience.
+
+#. You need to develop IPv6 expertise so that you're not caught **flat-footed** when the IPv6 rapture finally arrives.
+
+     Not prepared for what is going to happen.
+
+#. You need to develop IPv6 expertise so that you're not caught flag-footed when the IPv6 **rapture** finally arrives.
+
+     Rapture is a feeling of emotional ecstasy so magical it's almost as if you've been transported to some other world.
+
+     Coming to us from an old French word meaning "carried away," rapture certainly involves getting swept off
+     Shangri-La. It's happiness so extreme that you just about float to heaven, complete with big goofy grin plastered
+     to your face. Traditionally reserved for those feeling spiritual ecstasy, rapture now extends to anyone feeling
+     overwhelmed by emotion -- sparked by everything from a passionate kiss to scoring an awesome dress on sale.
+
+#. It's civic-minded, too -- your adoption of IPv6 **hastens** the day when IPv6 is all we have to deal with.
+
+     The verb hasten means to move at a high speed. If you hasten to your room, no one will know that you came in late.
+
+     Hasten comes from the word haste, which means "excessive speed or urgency." The words hurry and hasten are
+     synonyms. Hasten can also mean "to make happen quickly," like when you open a window in the kitchen when you are
+     cooking to hasten the room's cooling down. Hasten also means "to be quick," like when you hasten to tell everyone
+     that the rumor going around about you isn't true.
+
+#. In that case, it's your **solemn** duty to implement IPv6.
+
+     If you've ever attended a funeral, you were probably struck by how quiet earnest, and solemn the mood was. You can
+     use the word solemn to describe anything that's really serious and dignified.
+
+     The adjective solemn comes from the Latin sollemnis, which means formal or ceremonial. You can still use it to
+     describe a ceremony or event, but it's also a good word for talking about someone who's serious and sincere and
+     maybe lacks a sense of humor about certain things. Here's a trick for remembering it: Think of a "sole man," a
+     serious guy standing alone at a party talking to no one.
+
+#. Don't **screw** things up for the reset of us by continuing to impede IPv6's adoption.
+
+     screw somethings up = to spoil something by doing something stupid
+
+#. Don't screw things up for the rest of us by continuing to **impede** IPv6's adoption.
+
+     To impede something is to delay or block its progress or movement. Carrying six heavy bags will impede your
+     progress if you're trying to walk across town in a hurry.
+
+     Impede comes from the Latin impedire which literally means "to hold the feet," formed from the prefix in-, ("in")
+     plus pes ("foot"). Think about walking with a cast on your foot -- how slow and awkward that would be. If you
+     struggle with reading, that might impede your progress in your social studies class. An impediment is someghint
+     that impedes, such as a physical defect that affects speech -- a speech impediment.
+
+#. It's doubtful that you could not find any pieces of enterprise-grade networking **gear** that doesn't support IPv6
+   these days but a lot of consumer-grade equipment remains IPv4-only.
+
+     The noun gear refers to several things. First, it's the equipment we need for a sport or event. A gear is also a
+     wheel with teeth that interlocks with another gear to transmit motion in a machine.
+
+#. One of the main **chores** of the link layer is to add headers to packets and to put separators between them.
+
+     A chore is a duty or task you're obligated to perform, often one that is unpleasant but necessary. Watching the
+     dishes is a chore, and so is completing a homework assignment you aren't excited about.
+
+     Sometimes a thing that you wanted to do can become a chore if it ceases to be fun or interesting. Maybe Napoleon
+     felt conquering nations had become a chore by the time he was defeated in the Battle of Waterloo. The noun chore
+     dates from the 18th century, when there were fewer appliances and more household tasks that needed to be done.
+
+#. You might still run across **vestigial** references to framing choices in network documentation, but you can now
+   ignore this issue.
+
+     Vestigial describes an organ or body part that continues to exist without retaining its original function, such as
+     our appendix.
+
+     The adjective vestigial derives from the Latin word vestigium, meaning "footprint, trace." It's most often used in
+     biology to describe something that either didn't finish developing or has become, through evolution, pretty much
+     useless. An ostrich's wings are vestigial because it's unable to fly -- or do much of anything -- with them. A
+     penguin's wings, on the other hand, are not vestigial because it has found another user for them -- to help it
+     swim.
+
+#. In this case, an Ipv4 router that forwards the packet onto the small-MTU network further subdivides the packet in a
+   process called **fragmentation**.
+
+     Fragmentation describes a separating of something into pieces. The way a family can be affected by divorce, its
+     members living in separate houses, is one kind of fragmentation.
+
+     People often have an image of an exploding bomb when they think about fragmentation, and that sense of something
+     breaking into tiny particles is a useful way to think of the word, no matter how it's used. A burst water ballon
+     experiences fragmentation, and so does a city disrupted by violence.
+
+#. UDP is not so nice and is happy to **shunt** extra work to the IP layer.
+
+     A shunt is a small tube that goes inside the body to drain fluid. It also means to divert in a general way, like if
+     you shunt the thought of tubes in your body, you think about rainbows and kittens instead.
+
+     Although shunt usually refers to a tube that drains blood or other fluid out of a part of the body, shunt also
+     means to bypass. If a train is shunted, it's diverted from the main track onto a side track. The word may have come
+     from shun, as in "turn away," which is what a shunt essentially does. It turns something away from where it was
+     headed.
+
+#. IPv4 fragmentation problems can be **insidious**.
+
+     If something is slowly and secretly causing harm, it's insidious -- lke the rumors no one seems to listen to until
+     suddenly someone's reputation is ruined.
+
+     This is very fitting as an insidious rumor or problem is one whose negative effect is not realized until the damage
+     is already done. Similarly, an insidious disease develops internally without symptoms, so that you don't realize
+     right away that you are sick.
